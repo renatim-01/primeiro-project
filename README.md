@@ -4,7 +4,7 @@
 
 Para rodar o projeto digite:
 
-'''
+```
 node app.js
-'''
+```
 
